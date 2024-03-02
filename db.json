@@ -48,14 +48,14 @@
     {"fecha" : "2024-02-24", "temp_min": 3.5, "temp_max": 9.8, "cielo": "Granizo"},
     {"fecha" : "2024-02-25", "temp_min": 3.9, "temp_max": 9.8, "cielo": "Tormentas"}
   ]
-}
+},
 {
   "id": "ES-01-001" , "temps" : [
     {"fecha" : "2024-02-23", "temp_min": 1.2, "temp_max": 12.8, "cielo": "Nieve"},
     {"fecha" : "2024-02-24", "temp_min": 2.5, "temp_max": 13.0, "cielo": "Tormentas"},
     {"fecha" : "2024-02-25", "temp_min": 3.9, "temp_max": 11.8, "cielo": "Tormentas"}
   ]
-}
+},
 {
   "id": "ES-08-001" , "temps" : [
     {"fecha" : "2024-02-23", "temp_min": 2.3, "temp_max": 9.8, "cielo": "Soleado"},
